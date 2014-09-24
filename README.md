@@ -41,6 +41,11 @@ A WildFly/AS7 module for the SimplePush Server.
 Please refer to the above modules documentation for more information.
 
 
+## Links
+
+* [Issue Tracking in JIRA](https://issues.jboss.org/browse/AGSMPLPUSH/)
+
+
 ## Docker
 You can use [Docker](https://www.docker.io) to build and run SimplePush server. Follow the instructions to
  [install docker](https://www.docker.io/gettingstarted/).
